@@ -13,7 +13,7 @@ Pancakes are delicious! Let's learn how to make them.
 
 
 ## Preparing the batter
-- Combine the flour, baking powder, salt and sugar.
+- Combine the flour, baking powder, salt.
 - Puke in it.
 - Buy pancakes from the store.
 - Heat them in a microwave.
@@ -23,3 +23,4 @@ Pancakes are delicious! Let's learn how to make them.
 - But butter in the pan.
 - Bake.
 - Flip.
+- Serve with tomatoes, paprika's, vegan cheese.
