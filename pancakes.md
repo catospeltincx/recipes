@@ -18,3 +18,8 @@ Pancakes are delicious! Let's learn how to make them.
 - Buy pancakes from the store.
 - Heat them in a microwave.
 - Done.
+
+## Baking the pancakes
+- But butter in the pan.
+- Bake.
+- Flip.
